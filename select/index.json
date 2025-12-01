@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Streaming Heart ♡ English Cover【rachie】 ストリーミングハート",
+  "base_artist": "Rachie",
+  "createdAt": "2025-12-01T12:58:33.349630Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Streaming Heart",
+      "artist": "DECO*27",
+      "has_synced": false,
+      "path": "select/01_Streaming_Heart_DECO_27.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Streaming Heart (feat. Hatsune Miku)",
+      "artist": "DECO*27 feat. Miku Hatsune",
+      "has_synced": true,
+      "path": "select/02_Streaming_Heart_(feat._Hatsune_Miku)_DECO_27_feat._Miku_Hatsune.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Streaming Heart",
+      "artist": "DECO*27/Hatsune Miku",
+      "has_synced": true,
+      "path": "select/03_Streaming_Heart_DECO_27_Hatsune_Miku.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Streaming Heart",
+      "artist": "REOL",
+      "has_synced": true,
+      "path": "select/04_Streaming_Heart_REOL.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Streaming Heart (feat. Hatsune Miku)",
+      "artist": "DECO*27",
+      "has_synced": false,
+      "path": "select/05_Streaming_Heart_(feat._Hatsune_Miku)_DECO_27.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Streaming Heart",
+      "artist": "DECO*27 feat. Miku Hatsune",
+      "has_synced": true,
+      "path": "select/06_Streaming_Heart_DECO_27_feat._Miku_Hatsune.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Streaming Heart",
+      "artist": "DECO*27 feat. Hatsune Miku",
+      "has_synced": true,
+      "path": "select/07_Streaming_Heart_DECO_27_feat._Hatsune_Miku.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Streaming Heart",
+      "artist": "Glutamine",
+      "has_synced": false,
+      "path": "select/08_Streaming_Heart_Glutamine.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Streaming Heart - ストリーミングハート",
+      "artist": "DECO*27",
+      "has_synced": false,
+      "path": "select/09_Streaming_Heart_-_ストリーミングハート_DECO_27.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Streaming Heart (feat. Hatsune Miku)",
+      "artist": "Hatsune Miku",
+      "has_synced": true,
+      "path": "select/10_Streaming_Heart_(feat._Hatsune_Miku)_Hatsune_Miku.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Streaming Heart",
+      "artist": "Hatsune Miku",
+      "has_synced": false,
+      "path": "select/11_Streaming_Heart_Hatsune_Miku.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Streaming Heart",
+      "artist": "DECO*27 feat.Hatsune Miku",
+      "has_synced": true,
+      "path": "select/12_Streaming_Heart_DECO_27_feat.Hatsune_Miku.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "StreamingHeart",
+      "artist": "あかいろ狼",
+      "has_synced": false,
+      "path": "select/pl_01_StreamingHeart_あかいろ狼.txt"
+    }
+  ]
+}
